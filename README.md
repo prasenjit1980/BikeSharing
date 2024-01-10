@@ -19,6 +19,13 @@ Specifically, they want to understand the factors affecting the demand for these
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Technologies Used
+- Pandas - version 2.0.3
+- NumPy - version 1.24.3
+- Seaborn - version 0.12.2
+- MatplotLib - version 3.7.2
+- Jupyter Notebook 6.5.4
+
 ## Conclusions
 - On analysing data, it was observed that, the linear regression model was able to predict bike demand precisely with an R2 Score of nearly 80%
 
@@ -32,11 +39,6 @@ Specifically, they want to understand the factors affecting the demand for these
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- Pandas - version 2.0.3
-- NumPy - version 1.24.3
-- Seaborn - version 0.12.2
-- MatplotLib - version 3.7.2
-- Jupyter Notebook 6.5.4
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
