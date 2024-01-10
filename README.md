@@ -14,13 +14,13 @@ BoomBikes aspires to understand the demand for shared bikes among the people aft
 
 Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
-Which variables are significant in predicting the demand for shared bikes.
-How well those variables describe the bike demands
+* Which variables are significant in predicting the demand for shared bikes.
+* How well those variables describe the bike demands
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The equation for target variable - cnt=0.146943 + 0.511635atemp -0.144919windspeed + 0.092692season_summer + 0.117796season_winter + 0.235150yr_2019 + 0.065359month_Aug -0.047622month_Jan + 0.11461month_Sep + 0.021636weekday_Sat -0.274668weathersit_Light Rain -0.079622* weathersit_Mist
+- On analysing data, it was observed that, the linear regression model was able to predict bike demand precisely with an R2 Score of nearly 80%
 
 - Comparision between Training and Testing dataset:
   
